@@ -1,0 +1,6 @@
+1.Script of the Demo Game
+2.Animation of the Main Character
+3.Model of the Main Character
+4.Animator for the game.
+USJ-R Adelante
+Internal Crisis
